@@ -1,2 +1,2 @@
-![dice cycles](dice.cycles.jpg)
-![dice eevee](dice.eevee.jpg)
+![sword cycles](sword.cycles.jpg)
+![sword eevee](sword.eevee.jpg)
