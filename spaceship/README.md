@@ -1,1 +1,1 @@
-![spaceship cycles](spaceship cycles.jpg)
+![spaceship cycles](spaceship.cycles.jpg)
